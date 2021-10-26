@@ -1,0 +1,4 @@
+#Fri Oct 22 11:23:45 ICT 2021
+base.0=D\:\\Slicing Practice\\slicing_course\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
